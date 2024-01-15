@@ -15,7 +15,7 @@ jobs:
 
     - name: Fetch upstream changes
       run: |
-        git remote add upstream https://github.com/jzhang38/TinyLlama.git
+        git remote add upstream https://github.com/run-llama/llama-hub.git
 
     - name: Merge upstream changes
       run: |
