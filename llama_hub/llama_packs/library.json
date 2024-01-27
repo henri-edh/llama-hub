@@ -88,7 +88,8 @@
   "VoyageQueryEnginePack": {
     "id": "llama_packs/voyage_query_engine",
     "author": "Liuhong99",
-    "keywords": ["voyage", "query", "retrieval", "embeddings"]
+    "keywords": ["voyage", "query", "retrieval", "embeddings"],
+    "example": true
   },
   "VectaraRagPack": {
     "id": "llama_packs/vectara_rag",
@@ -153,7 +154,8 @@
   "RagEvaluatorPack": {
     "id": "llama_packs/rag_evaluator",
     "author": "nerdai",
-    "keywords": ["rag", "evaluation", "benchmarks"]
+    "keywords": ["rag", "evaluation", "benchmarks"],
+    "example": true
   },
   "LlamaDatasetMetadataPack": {
     "id": "llama_packs/llama_dataset_metadata",
@@ -227,5 +229,46 @@
     "id": "llama_packs/ragatouille_retriever",
     "author": "jerryjliu",
     "keywords": ["rag", "ragatouille", "retriever"]
+  },
+  "SemanticChunkingQueryEnginePack": {
+    "id": "llama_packs/node_parser/semantic_chunking",
+    "author": "jerryjliu",
+    "keywords": ["semantic", "chunking", "chunk", "parser", "node", "embedding"]
+  },
+  "RAGFusionPipelinePack": {
+    "id": "llama_packs/query/rag_fusion_pipeline",
+    "author": "jerryjliu",
+    "keywords": ["rag", "fusion", "pipeline", "query"],
+    "example": true
+  },
+  "AgentSearchRetrieverPack": {
+    "id": "llama_packs/agent_search_retriever",
+    "author": "logan-markewich",
+    "keywords": ["agent", "search", "retriever"]
+  },
+  "ChainOfTablePack": {
+    "id": "llama_packs/tables/chain_of_table",
+    "author": "jerryjliu",
+    "keywords": ["chain", "table", "tables"]
+  },
+  "MixSelfConsistencyPack": {
+    "id": "llama_packs/tables/mix_self_consistency",
+    "author": "Disiok",
+    "keywords": ["chain", "table", "tables", "pandas", "dataframe"]
+  },
+  "MultiTenancyRAGPack": {
+    "id": "llama_packs/multi_tenancy_rag",
+    "author": "ravi03071991",
+    "keywords": ["multi-tenancy", "multi", "tenancy", "rag"]
+  },
+  "StockMarketDataQueryEnginePack": {
+    "id": "llama_packs/stock_market_data_query_engine",
+    "author": "anoopshrma",
+    "keywords": ["stock", "market", "data", "query", "engine"]
+  },
+  "VannaPack": {
+    "id": "llama_packs/vanna",
+    "author": "jerryjliu",
+    "keywords": ["vanna", "sql", "ai", "text-to-sql"]
   }
 }

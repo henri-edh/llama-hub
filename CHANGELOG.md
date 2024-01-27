@@ -1,5 +1,71 @@
 # ChangeLog
 
+## v[0.0.76] - 2024-01-26
+
+### New Features
+- Convert Metaphor documentation to Exa (#896)
+- Add XML loader (#887)
+- Add Couchbase Reader (#892)
+- Support ArangoDB simple loader (#900)
+
+### Smaller Features + Bug Fixes / Nits
+- feat: add example option for llamapack library (#895)
+- fix import main_content_extractor (#891)
+- feat: example for rag evaluator pack (#882)
+- feat: example for voyage query engine pack (#880)
+- RAGatouille metadata support (#893)
+
+## v[0.0.75] - 2024-01-20
+
+### New Features
+
+- add vanna pack (#889)
+
+## v[0.0.74] - 2024-01-19
+
+### New Features
+
+- Add MangaDex loader (#870)
+
+### Bug Fixes / Nits
+
+- add timeout arg to github repo reader (#873)
+- use os.path to generate file paths (#866)
+- add args for trafilatrus loader (#872)
+
+## v[0.0.73] - 2024-01-19
+
+### New Features
+- Create stock_market_data_query_engine (#845)
+- feat: Add full site BFS scraping loader (#827)
+
+### Bug Fixes / Nits
+- update judge llm (#869)
+- add some consistent doc ids (#868)
+- add back selenium
+
+## v[0.0.72] - 2024-01-15
+
+### New Features
+- Add mix self consistency llama pack (for table QA)   (#861)
+- Add MultiTenancyRAGPack (#862)
+
+## v[0.0.71] - 2024-01-13
+
+### New Features
+-  add chain of table llamapack  (#859)
+
+## v[0.0.70] - 2024-01-11
+
+### New Features
+- add semantic chunker llama pack (#853)
+- Feature/add agent search (#844)
+
+## v[0.0.69] - 2024-01-08
+
+### New Features
+- add rag fusion query pipeline pack (#847)
+
 ## v[0.0.67] - 2024-01-07
 
 ### Security Fix
